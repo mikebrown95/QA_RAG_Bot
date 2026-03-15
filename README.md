@@ -25,7 +25,7 @@ Modular, production‑ready architecture
 
 Here is a walkthrough of the QA RAG Bot in action:
 
-https://github.com/mikebrown95/QA_RAG_Bot/blob/main/assets/demo.mp4
+https://github.com/mikebrown95/QA_RAG_Bot/blob/main/assets/demo_small.mp4
 
 🚀 Features
 📥 Multi‑Book Ingestion
