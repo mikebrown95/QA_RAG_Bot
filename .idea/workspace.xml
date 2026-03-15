@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a6bba3f-00da-4a88-a170-928e182b3854" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +58,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mikeb/PycharmProjects/Q&A_BOT/assets",
     "settings.editor.selected.configurable": "memory.settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mikeb\PycharmProjects\Q&amp;A_BOT\assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
