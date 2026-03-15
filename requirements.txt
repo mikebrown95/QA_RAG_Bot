@@ -10,3 +10,6 @@ pydantic
 requests
 pytest
 python-multipart
+numpy
+scikit-learn
+watchfiles

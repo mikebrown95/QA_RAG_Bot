@@ -21,6 +21,12 @@ Streamlit frontend
 
 Modular, production‑ready architecture
 
+## 🎥 Demo Video
+
+Here is a walkthrough of the QA RAG Bot in action:
+
+https://github.com/mikebrown95/QA_RAG_Bot/blob/main/assets/demo.mp4
+
 🚀 Features
 📥 Multi‑Book Ingestion
 Automatically download and ingest multiple Project Gutenberg books.
